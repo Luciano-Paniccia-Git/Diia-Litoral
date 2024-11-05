@@ -1,10 +1,10 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
+  title: Distribuimos insumos para la cadena de producción de diferentes industrias
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "Contactenos"
     link: "/contact"
     enable: true
 
@@ -88,6 +88,6 @@ call_to_action:
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contactenos"
     link: "/contact"
 ---

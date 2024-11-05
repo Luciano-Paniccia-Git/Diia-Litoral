@@ -48,7 +48,7 @@ call_to_action:
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contactenos"
     link: "/contact"
     
 ---

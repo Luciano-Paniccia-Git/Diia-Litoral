@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Mercado de ventas
 draft: false
 faqs:
 - title: Will updates also be free?

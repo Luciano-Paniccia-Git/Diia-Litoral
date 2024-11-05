@@ -5,23 +5,19 @@
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Productos",
       "url": "/blog"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Exportaciones",
+      "url": "/faq"
     },
     {
       "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
+      "name": "Empresa",
       "url": "/elements"
     }
   ],
