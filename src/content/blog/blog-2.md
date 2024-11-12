@@ -1,19 +1,46 @@
 ---
-title: How to make toys from old Olarpaper
+title: "Acidulantes y reguladores de acidez"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-2.jpg"
-date: 2022-05-04T05:00:00Z
+image: "/images/acidulantes.jpg"
+date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Los acidulantes son un tipo de conservantes, reguladores del pH, que provocan la inhibición del crecimiento microbiano y ayudan a mantener la calidad óptima del producto.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Ácido Acético
+- Ácido Cítrico
+- Ácido Fosfórico 80% y 85%
+- Ácido Láctico 85%
+- Ácido Málico
+- Ácido Sórbico
+- Ácido Tartárico
+- Citrato de sodio
+- Lactato de sodio 60%

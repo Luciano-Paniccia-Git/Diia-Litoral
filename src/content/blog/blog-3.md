@@ -1,19 +1,44 @@
 ---
-title: What you need to know about Photography
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-3.jpg"
-date: 2022-06-02T06:00:00+00:00
+title: "Conservantes"
+description: "Heading example Here is example of headings. You can use this heading by following markdownify rules."
+image: "/images/conservantes.jpg"
+date: 2022-04-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Es una sustancia química utilizada como aditivo alimentario que, añadida a los alimentos, detiene o minimiza el deterioro causado por la presencia de diferentes tipos de microorganismos.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+
+
+
+
+
+
+
+## Conservantes
+
+- Ácido acético
+- Ácido ascórbico
+- Ácido cítrico
+- Ácido fosfórico
+- Ácido láctico
+- Ácido sórbico
+- Ácido tartárico
+- Alcohol isopropílico
+- Benzoato de sodio
+- Citrato de sodio
+- Cloruro de calcio 35% solución
+- Cloruro de calcio perlas
+- Cloruro de potasio
+- Cloruro de sodio
+- Fosfato disódico
+- Gluconato de sodio
+- Metabisulfito de sodio
+- Propionato de calcio
+- Sorbato de potasio
+- Tripolifosfato de sodio

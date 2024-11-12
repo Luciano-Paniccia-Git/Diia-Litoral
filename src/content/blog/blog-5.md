@@ -1,19 +1,44 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "Colorante caramelo natural"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/slide-producto-colorante_0.jpg"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Es un colorante alimentario soluble en agua. Se produce mediante el tratamiento térmico de carbohidratos, generalmente, en presencia de ácidos, álcalis, o sales, en un proceso llamado caramelización.
+Disponemos tanto de doble o simple concentración:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+## Simple concentración:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+El Colorante de simple concentración tiene menor intensidad de color y mayor viscosidad.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Colorante Caramelo S – 110
+Café soluble, bebidas alcohólicas, aperitivos, licores y amargos, esencias y sabores, productos panificados, galletitas, obleas y conos para helados, extender de cacao, azúcar de fantasía, alimento balanceado.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Colorante Caramelo S – 195
+Bebidas analcohólicas, aperitivos y amargos, productos panificados, galletitas, obleas y conos para helados, esencias y sabores, productos lácteos, helados, dulces y mermeladas, salsas no proteicas, mostaza, alimento balanceado.
+
+Colorante Caramelo S – 250
+Productos panificados, obleas y conos para helados, salsas a base de soja, aderezos, sopas, esencias y sabores, productos lácteos, dulces y mermeladas.
+
+Colorante Caramelo S – 370
+Esencias y sabores, productos panificados, obleas y conos para helados, salsas a base de soja, aderezos, sopas, productos lácteos, dulces y mermeladas.
+
+
+## Doble  concentración:
+
+El Colorante de doble concentración tiene mayor intensidad de color.
+
+Colorante Caramelo D – 420
+Bebidas alcohólicas, aperitivos, licores y amargos, esencias y sabores, extender de cacao, azúcar de fantasía, alimento balanceado.
+
+Colorante Caramelo D – 460
+Bebidas alcohólicas, aperitivos, licores y amargos, esencias y sabores, extender de cacao, azúcar de fantasía, alimento balanceado.
+
+Colorante Caramelo D – 474
+Bebidas analcohólicas, bebidas alcohólicas, café soluble, esencias y sabores, productos lácteos, helados, dulces y mermeladas, salsas no proteicas, mostaza, azúcar de fantasía, extender de cacao, alimentos balanceados.
+
+Colorante Caramelo D – 484
+Bebidas alcohólicas, aperitivos, licores y amargos, esencias y sabores, café soluble, extender de cacao, azúcar de fantasía, alimento balanceado.

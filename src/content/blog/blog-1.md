@@ -1,19 +1,53 @@
 ---
-title: "What you need to know about Photography"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-1.jpg"
-date: 2022-04-04T05:00:00Z
+title: Colorantes
+description: "Heading example Here is example of headings. You can use this heading by following markdownify rules."
+image: "/images/colorantes.jpg"
+date: 2022-05-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Colorantes de origen natural y sintético que pueden ser aplicados a un numeroso abanico de productos alimenticios. 
+Contamos con una amplia gama de colores(tonos) fabricados bajo altos estándares de calidad a fin de satisfacer las necesidades del mercado.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Colorantes sintéticos
 
-## Creative Design
+### Anaranjados
+- Anaranjados
+- Amarillo ocaso
+- Amarillo quinolina
+- Amarillo tartrazina
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+### Azules
+- Azul brillante FCF
+- Azul indigotina
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### Rojos
+- Rojo 33 (Uso cosmético exclusivo)
+- Rojo allura AC
+- Rojo amaranto
+- Rojo carmoisima
+- Rojo eritrosina
+- Rojo punzo 4r
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### Verdes
+- Verde indeleble
+
+## Colorantes naturales
+
+### Amarillos
+- Amarillo annatto
+- Amarillo de cúrcuma
+
+### Naranjas
+- Ácido Carmínico
+
+### Rojos
+- Carmín de cochinilla
+
+### Café Marrón
+- Colorante Caramelo
+- Extracto de malta
+
+### Blanco Negro
+- Carbón vegetal
+- Dióxido de titanio

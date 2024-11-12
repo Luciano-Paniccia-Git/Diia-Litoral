@@ -23,49 +23,47 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Oficina Central",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Santa Fe, Argentina",
+          "info": "Santa Fe, Argentina"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Email",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "info@marcelopaniccia.com.ar",
+          "url": "mailto:info@marcelopaniccia.com.ar"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Email de Ventas",
       "menu": [
         {
-          "text": "FAQ",
-          "url": "/faq"
-        },
+          "text": "ventas@diialitoral.com",
+          "url": "mailto:ventas@diialitoral.com"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "menu": [
         {
-          "text": "Privacy Policy",
-          "url": "/privacy-policy"
-        },
+          "text": "+54 9 3426 98-8319",
+          "url": "https://wa.me/+5493426988319"
+        }
+      ]
+    },
+    {
+      "name": "Teléfono",
+      "menu": [
         {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
+          "text": "+54 9 3426 98-8319",
+          "url": "tel:+543426988319"
         }
       ]
     }

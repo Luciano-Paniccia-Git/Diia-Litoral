@@ -1,19 +1,19 @@
 ---
-title: "How to make toys from old Olarpaper"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
-date: 2022-07-04T05:00:00Z
+title: Gelificantes y espesantes
+description: "Heading example Here is example of headings. You can use this heading by following markdownify rules."
+image: "/images/gelificantes.jpg"
+date: 2022-05-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Son aditivos que se utilizan para modificar la textura y la viscosidad de los alimentos.
+Los gelificantes se agregan a alimentos como los helados para darles consistencia gelatinosa. Los espesantes tienen la capacidad, como agentes de carbohidratos que son, de absorber una parte del líquido de los alimentos y aportar una apariencia más sólida de la que adoptarían de forma natural.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Otros Gelificantes y Espesantes
 
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+- Almidones modificados
+- CMC
+- Gelatina comestible
+- Goma xantica
+- Goma guar
+- Pectinas cítricas
