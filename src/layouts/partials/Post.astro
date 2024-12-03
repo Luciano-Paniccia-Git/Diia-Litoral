@@ -8,24 +8,26 @@ const { blog_folder, summary_length } = config.settings;
 ---
 
 <div class="post">
-  {
-    post.data.image && (
-      <Image
-        class="rounded-lg"
-        src={post.data.image}
-        alt={post.data.title}
-        width={index === 0 ? 925 : 445}
-        height={index === 0 ? 475 : 230}
-      />
-    )
-  }
-  <h2 class="h3 mb-2 mt-4">
-    <a href={`/${blog_folder}/${post.slug}`} class="block hover:text-primary">
-      {post.data.title}
-    </a>
-  </h2>
-  <p set:html={plainify(post.body.slice(0, summary_length))} />
-  <a class="btn btn-primary mt-4" href={`/${blog_folder}/${post.slug}`} rel="">
-    Leer mas
-  </a>
+  {post.data.image && (
+    <Image
+      class="rounded-lg"
+      src={post.data.image}
+      alt={post.data.title || "Post Image"}
+      width={index === 0 ? 925 : 445}
+      height={index === 0 ? 475 : 230}
+    />
+  )}
+  {post.data.title && ( <!-- Renderiza el contenido solo si hay un título -->
+    <>
+      <h2 class="h3 mb-2 mt-4">
+        <a href={`/${blog_folder}/${post.slug}`} class="block hover:text-primary">
+          {post.data.title}
+        </a>
+      </h2>
+      <p set:html={plainify(post.body.slice(0, summary_length))} />
+      <a class="btn btn-primary mt-4" href={`/${blog_folder}/${post.slug}`} rel="">
+        Leer más
+      </a>
+    </>
+  )}
 </div>

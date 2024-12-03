@@ -48,7 +48,7 @@ const homepage = defineCollection({
 // Post collection schema
 const postsCollection = defineCollection({
   schema: z.object({
-    title: z.string(),
+    title: z.string().optional(),
     meta_title: z.string().optional(),
     description: z.string().optional(),
     date: z.date().optional(),

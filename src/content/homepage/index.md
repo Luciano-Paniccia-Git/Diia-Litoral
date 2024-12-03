@@ -1,93 +1,33 @@
 ---
 banner:
   title: Distribuimos insumos para la cadena de producción de diferentes industrias
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  content: "En Diia Litoral SRL, ofrecemos soluciones especializadas para optimizar los procesos de producción en diversas industrias. Nuestros productos están diseñados para mejorar la calidad, eficiencia y rentabilidad en cada etapa de la cadena de producción. Con nuestra experiencia y dedicación, ayudamos a las empresas a mantenerse competitivas con insumos de la más alta calidad."
   image: /images/banner-art.png
   button:
     label: "Contactenos"
     link: "/contact"
     enable: true
 
-# feature
-feature: 
-  title: Something You Need To Know
-  features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
-    icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Brindamos lo mejor para que su formulación sea única"
+    content: "En Diia Litoral SRL ofrecemos una amplia gama de soluciones para la industria, con productos que abarcan desde acidulantes y colorantes hasta emulsionantes y conservantes. Nos especializamos en ingredientes de alta calidad que mejoran la formulación de tus productos, optimizando su textura, sabor y durabilidad. Con un enfoque en la innovación, nuestros productos están diseñados para satisfacer las necesidades de diversas aplicaciones industriales, brindando soluciones eficaces y de confianza para tus procesos de producción."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/acidulantes.jpg"
+      - "/images/gelificantes.jpg"
+      - "/images/endulzantes.jpg"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Conozca nuestros productos
+      link: /blog
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Comprometidos con la calidad en la distribución de insumos químicos"
+    content: "Diia Litoral S.R.L. es una distribuidora de productos químicos con más de 15 años de experiencia en el mercado. Fundada en 2006, hemos evolucionado para convertirnos en un aliado estratégico para diversas industrias, como la alimentaria, farmacéutica y cosmética. Ofrecemos una amplia gama de insumos de alta calidad, adaptados a las necesidades de cada cliente. Nos enorgullece trabajar con los más altos estándares de calidad y brindar un soporte técnico especializado para optimizar los procesos productivos. Nuestra misión es ser un socio confiable en la cadena de producción de nuestros clientes, ofreciendo productos innovadores y soluciones efectivas."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/deposito.jpg"
     button:
       enable: true
-      label: Check it out
-      link: /contact
-  
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
+      label: Nuestra empresa
+      link: /elements
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-# workflow
-workflow: 
-  title: "Experience the best workflow with us"
-  image: "/images/banner.png"
-  description: ""
-
-# call_to_action
-call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: '/images/cta.png'
-  button:
-    enable: true
-    label: "Contactenos"
-    link: "/contact"
 ---

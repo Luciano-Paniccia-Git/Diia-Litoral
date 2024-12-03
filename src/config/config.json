@@ -4,8 +4,8 @@
     "base_url": "https://diia-litoral.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/diia.png",
+    "logo": "/images/LOGO DIIA LITORAL srl._Mesa de trabajo 1 (1).png",
     "logo_width": "200",
     "logo_height": "38",
     "logo_text": "Astroplate"
