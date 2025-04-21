@@ -1,20 +1,20 @@
 {
   "main": [
     {
-      "name": "Inicio",
+      "name": "INICIO",
       "url": "/"
     },
     {
-      "name": "Productos",
+      "name": "PRODUCTOS",
       "url": "/blog"
     },
     {
-      "name": "Contacto",
-      "url": "/contact"
+      "name": "EMPRESA",
+      "url": "/elements"
     },
     {
-      "name": "Empresa",
-      "url": "/elements"
+      "name": "CONTACTO",
+      "url": "/contact"
     }
   ],
   "footer": [

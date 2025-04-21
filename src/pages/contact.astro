@@ -55,14 +55,28 @@ const { title, description, info } = entry?.data;
         <div class="content col-12 md:col-6 lg:col-5">
           <h4 set:html={markdownify(info?.title)} />
           <p class="mt-4" set:html={markdownify(info?.description)} />
-          <ul class="contact-list mt-5 list-none pl-0">
-            {
-              info?.contacts?.map((contact: string) => (
-                <li>
-                  <strong class="text-dark" set:html={markdownify(contact)} />
-                </li>
-              ))
-            }
+          <ul class="contact-list mt-5 pl-0 list-none space-y-3">
+            <div class="flex items-start gap-2 list-none">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-primary mt-1" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M10 2a6 6 0 00-6 6c0 3.73 5.5 9.45 5.74 9.7a.5.5 0 00.72 0C10.5 17.45 16 11.73 16 8a6 6 0 00-6-6zM8 8a2 2 0 114 0 2 2 0 01-4 0z" />
+              </svg>
+              <strong class="text-dark">Santa Fe, Argentina</strong>
+            </div>
+            <div class="flex items-start gap-2 list-none">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-primary mt-1" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M2.003 5.884l2.122-.707a1 1 0 011.112.444l1.5 2.598a1 1 0 01-.167 1.217l-.987.987a11.037 11.037 0 005.287 5.287l.987-.987a1 1 0 011.217-.167l2.598 1.5a1 1 0 01.444 1.112l-.707 2.122a1 1 0 01-.97.757C5.477 20 0 14.523 0 8.5a1 1 0 01.757-.97z" />
+              </svg>
+              <strong class="text-dark">+54 9 3426 98-8319</strong>
+            </div>
+            <div class="flex items-start gap-2 list-none">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-primary mt-1" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M2.94 6.5a1 1 0 00-.44.895V14a2 2 0 002 2h11a2 2 0 002-2V7.395a1 1 0 00-.44-.895L10 11 2.94 6.5z" />
+                <path d="M18 5a2 2 0 00-2-2H4a2 2 0 00-2 2v.2L10 10l8-4.8V5z" />
+              </svg>
+              <strong class="text-dark">
+                <a href="mailto:info@marcelopaniccia.com.ar" class="text-primary underline">info@marcelopaniccia.com.ar</a>
+              </strong>
+            </div>
           </ul>
         </div>
       </div>
