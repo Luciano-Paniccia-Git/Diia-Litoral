@@ -154,12 +154,21 @@ const { title, meta_title, description, image, noindex, canonical } =
     />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
-  <body>
-    <TwSizeIndicator />
-    <Header />
-    <main id="main-content">
-      <slot />
-    </main>
-    <Footer />
-  </body>
+<body>
+  <TwSizeIndicator />
+  <Header />
+  <main id="main-content">
+    <slot />
+  </main>
+
+  <a
+    href="/contact"
+    class="fixed bottom-6 right-6 z-50 bg-primary text-white px-6 py-3 rounded-full shadow-lg text-lg hover:bg-primary-dark transition-all"
+  >
+    Contáctenos
+  </a>
+
+  <Footer />
+</body>
+
 </html>

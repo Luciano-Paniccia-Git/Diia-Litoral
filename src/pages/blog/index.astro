@@ -53,15 +53,12 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
                 {currentPosts[0].data.title}
               </a>
             </h2>
-            <p
-              set:html={plainify(currentPosts[0].body.slice(0, summary_length))}
-            />
             <a
               class="btn btn-primary mt-4"
               href={`/${blog_folder}/${currentPosts[0].slug}`}
               rel=""
             >
-              Leer mas
+              Leer Más
             </a>
           </div>
         </div>

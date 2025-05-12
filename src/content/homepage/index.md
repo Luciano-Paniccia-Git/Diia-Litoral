@@ -1,17 +1,17 @@
 ---
 banner:
-  title: Distribución de Aditivos Alimenticios e Insumos Químicos
-  content: "En Diia Litoral SRL, distribuimos insumos especializados para mejorar la calidad en la fabricación de productos alimenticios y sanitarios."
-  image: /images/MG_91951.png
-  button:
-    label: "Contactenos"
-    link: "/contact"
-    enable: true
+  title: Distribución de productos químicos para la industria alimenticia y farmacéutica
+  content: "Distribuimos insumos especializados para mejorar la calidad en la fabricación de productos alimenticios y sanitarios."
+  images:
+    - /images/MG_91951.png
+    - /images/bidones-plastico.jpg
+    - /images/2-contribucion-economica-industria-farmaceutica-en-mexico-1024x463.png
+
 
 # services
 services:
-  - title: "FORMULACION UNICA"
-    content: "Ofrecemos una amplia gama de soluciones, abarcando acidulantes, colorantes, emulsionantes y conservantes. Nos especializamos en ingredientes que mejoran la formulación de tus productos, optimizando textura, sabor y durabilidad."
+  - title: "Sabemos que cada formulación es única por eso ofrecemos productos de alta calidad"
+    content: "Contamos con las fichas técnicas y certificado de análisis de lote (COA). Los productos son libre de alergénicos y contamos con los certificados Kosher, Halal."
     images:
       - "/images/acidulantes.jpg"
       - "/images/gelificantes.jpg"

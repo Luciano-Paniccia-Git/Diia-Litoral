@@ -7,6 +7,6 @@ info:
   contacts: 
     - "Dirreción: Santa Fe, Argentina "
     - "Telefono: +54 9 3426 98-8319"
-    - "Mail: [info@marcelopaniccia.com.ar](mailto:info@marcelopaniccia.com.ar)"
+    - "Mail: [administracion@diialitoral.com](mailto:administracion@diialitoral.com)"
 ---
 
