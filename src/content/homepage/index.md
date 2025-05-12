@@ -2,11 +2,7 @@
 banner:
   title: Distribución de productos químicos para la industria alimenticia y farmacéutica
   content: "Distribuimos insumos especializados para mejorar la calidad en la fabricación de productos alimenticios y sanitarios."
-  images:
-    - /images/MG_91951.png
-    - /images/bidones-plastico.jpg
-    - /images/2-contribucion-economica-industria-farmaceutica-en-mexico-1024x463.png
-
+  image: /images/MG_91951.png
 
 # services
 services:

@@ -6,15 +6,7 @@ import { markdownify } from "@/lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 
 const homepage = await getEntryBySlug("homepage", "index");
-const { banner, services } = homepage.data;
-
-type Banner = {
-  title: string;
-  content: string;
-  images: string[]; // Asegúrate de que sea un array de strings
-};
-
-const bannerData: Banner = banner;
+const { banner, feature, services, workflow, call_to_action } = homepage.data;
 ---
 
 <Base>
@@ -23,45 +15,27 @@ const bannerData: Banner = banner;
     <div class="container">
       <div class="row text-center">
         <div class="mx-auto lg:col-10">
-          <h1 class="font-primary font-bold">{bannerData?.title}</h1>
+          <h1 class="font-primary font-bold">{banner?.title}</h1>
           {
-            bannerData?.content && (
+            banner?.content && (
               <p
                 class="mt-4 text-base"
-                set:html={markdownify(bannerData.content)}
+                set:html={markdownify(banner.content)}
               />
             )
           }
 
-{ bannerData?.images && bannerData.images.length > 1 ? (
-  // Carrusel si hay más de una imagen
-  <div class="swiper mt-8"> <!-- 👈 le agregamos mt-8 -->
-    <div class="swiper-wrapper">
-      {bannerData.images.map((image: string) => (
-        <div class="swiper-slide flex items-center justify-center h-[390px]">
-          <Image
-            class="mx-auto h-[390px] w-[750px] object-cover"
-            src={image}
-            width={750}
-            height={390}
-            alt="banner image"
-          />
-        </div>
-      ))}
-    </div>
-    <div class="pagination" />
-  </div>
-) : (
-  // Imagen estática si solo hay una imagen
-  <Image
-    class="mx-auto mt-8 h-[390px] w-[750px] object-cover"
-    src={bannerData?.images[0]}
-    width={750}
-    height={390}
-    alt="banner image"
-  />
-)}
-
+          {
+            banner?.image && (
+              <Image
+                class="mx-auto mt-12"
+                src={banner?.image}
+                width={750}
+                height={390}
+                alt="banner image"
+              />
+            )
+          }
         </div>
       </div>
     </div>
@@ -86,7 +60,7 @@ const bannerData: Banner = banner;
                             src={image}
                             width={538}
                             height={328}
-                            alt="service image"
+                            alt=""
                           />
                         </div>
                       ))}
@@ -99,7 +73,7 @@ const bannerData: Banner = banner;
                     src={service!.images![0]}
                     width={538}
                     height={328}
-                    alt="service image"
+                    alt=""
                   />
                 )}
               </div>
@@ -152,21 +126,7 @@ const bannerData: Banner = banner;
           clickable: true,
         },
       });
-
-      // Carrusel para el banner si hay más de una imagen
-      if (document.querySelector(".swiper-wrapper")) {
-        new Swiper(".swiper", {
-          modules: [Pagination, Autoplay],
-          autoplay: {
-            delay: 3000,
-          },
-          pagination: {
-            type: "bullets",
-            el: ".swiper .pagination",
-            clickable: true,
-          },
-        });
-      }
     });
   </script>
+  <!-- ./End service -->
 </Base>
