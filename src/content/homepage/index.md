@@ -1,7 +1,6 @@
 ---
 banner:
   title: Distribución de productos químicos para la industria alimenticia y farmacéutica
-  content: "Distribuimos insumos especializados para mejorar la calidad en la fabricación de productos alimenticios y sanitarios."
   images:
     - /images/MG_91951.png
     - /images/bidones-plastico.jpg
@@ -10,7 +9,6 @@ banner:
 # services
 services:
   - title: "Sabemos que cada formulación es única por eso ofrecemos productos de alta calidad"
-    content: "Contamos con las fichas técnicas y certificado de análisis de lote (COA). Los productos son libre de alergénicos y contamos con los certificados Kosher, Halal."
     images:
       - "/images/acidulantes.jpg"
       - "/images/gelificantes.jpg"

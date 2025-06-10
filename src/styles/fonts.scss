@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Nexa XBold';
+  src: url('/assets/fonts/NexaXBold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nexa Regular';
+  src: url('/assets/fonts/NexaRegular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Asignación global */
+body {
+  font-family: 'Nexa Regular', sans-serif;
+}
