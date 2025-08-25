@@ -15,33 +15,36 @@ const { title, description, info } = entry?.data;
       <h1 class="text-center font-normal" set:html={markdownify(title)} />
       <div class="section row pb-0">
         <div class="col-12 md:col-6 lg:col-7">
-          <form class="contact-form" method="POST" action={contact_form_action}>
-            <!-- Redirección a tu página de gracias -->
-            <input type="hidden" name="_next" value="https://diia.com.ar/gracias" />
-            <!-- (opcional) desactivar captcha de FormSubmit -->
-            <input type="hidden" name="_captcha" value="false" />
-            <!-- (opcional) asunto del email que te llega -->
-            <input type="hidden" name="_subject" value="Nuevo mensaje desde diia.com.ar" />
-            <!-- (opcional) honeypot anti-spam -->
-            <input type="text" name="_honey" style="display:none" />
-          
-            <div class="mb-3">
-              <input class="form-input w-full rounded" name="name" type="text" placeholder="Nombre" required />
-            </div>
-            <div class="mb-3">
-              <input class="form-input w-full rounded" name="email" type="email" placeholder="Email" required />
-            </div>
-            <div class="mb-3">
-              <input class="form-input w-full rounded" name="subject" type="text" placeholder="Asunto" required />
-            </div>
-            <div class="mb-3">
-              <!-- IMPORTANTE: agregá name para que se envíe el mensaje -->
-              <textarea class="form-textarea w-full rounded-md" name="message" rows="7"
-                placeholder="Contanos qué tipo de productos estás buscando..."></textarea>
-            </div>
-          
-            <button type="submit" class="btn btn-primary">Enviar</button>
-          </form>          
+<form class="contact-form" method="POST" action={contact_form_action}>
+  <!-- ✅ Redirección a la página de gracias (usa tu base_url del config) -->
+  <input type="hidden" name="_next" value={`${config.site.base_url}gracias`} />
+  <!-- Opcionales recomendados -->
+  <input type="hidden" name="_captcha" value="false" />
+  <input type="hidden" name="_subject" value="Nuevo mensaje desde diia.com.ar" />
+  <!-- ✅ CC a info@marcelopaniccia.com.ar -->
+  <input type="hidden" name="_cc" value="info@marcelopaniccia.com.ar" />
+  <!-- (si preferís que no se vea el CC, usá _bcc en lugar de _cc) -->
+  <input type="text" name="_honey" style="display:none" />
+
+  <div class="mb-3">
+    <input class="form-input w-full rounded" name="name" type="text" placeholder="Nombre" required />
+  </div>
+  <div class="mb-3">
+    <input class="form-input w-full rounded" name="email" type="email" placeholder="Email" required />
+  </div>
+  <div class="mb-3">
+    <input class="form-input w-full rounded" name="subject" type="text" placeholder="Asunto" required />
+  </div>
+  <div class="mb-3">
+    <textarea
+      class="form-textarea w-full rounded-md"
+      name="message"
+      rows="7"
+      placeholder="Contanos qué tipo de productos estás buscando..."></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
         </div>
         <div class="content col-12 md:col-6 lg:col-5">
           <h4 set:html={markdownify(info?.title)} />
@@ -57,7 +60,7 @@ const { title, description, info } = entry?.data;
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-primary mt-1" viewBox="0 0 20 20" fill="currentColor">
                 <path d="M2.003 5.884l2.122-.707a1 1 0 011.112.444l1.5 2.598a1 1 0 01-.167 1.217l-.987.987a11.037 11.037 0 005.287 5.287l.987-.987a1 1 0 011.217-.167l2.598 1.5a1 1 0 01.444 1.112l-.707 2.122a1 1 0 01-.97.757C5.477 20 0 14.523 0 8.5a1 1 0 01.757-.97z" />
               </svg>
-              <strong class="text-dark">+54 9 3426 98-8319</strong>
+              <strong class="text-dark">+54 9 3425 66-2160</strong>
             </div>
             <div class="flex items-start gap-2 list-none">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-primary mt-1" viewBox="0 0 20 20" fill="currentColor">
