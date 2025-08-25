@@ -24,7 +24,7 @@
   },
 
   "params": {
-    "contact_form_action": "",
+    "contact_form_action": "https://formsubmit.co/administracion@diialitoral.com",
     "tag_manager_id": "",
     "footer_content": "",
     "copyright": ""

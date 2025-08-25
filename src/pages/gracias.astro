@@ -1,0 +1,23 @@
+---
+import Base from "@/layouts/Base.astro";
+---
+
+<Base title="¡Gracias!">
+  <!-- Inyectamos el snippet en el <head> de esta página -->
+  <Fragment slot="head">
+    <!-- Event snippet de Google Ads -->
+    <script is:inline>
+      gtag('event', 'conversion', {
+        send_to: 'AW-17354344135/NUVNCPz_u_8aEMeNmdNA',
+        value: 1.0,
+        currency: 'ARS'
+      });
+    </script>
+  </Fragment>
+
+  <section class="container mx-auto py-20 text-center">
+    <h1 class="text-3xl font-bold">¡Gracias! Recibimos tu mensaje.</h1>
+    <p>Te contactaremos a la brevedad.</p>
+    <a class="btn btn-primary mt-6" href="/">Volver al inicio</a>
+  </section>
+</Base>

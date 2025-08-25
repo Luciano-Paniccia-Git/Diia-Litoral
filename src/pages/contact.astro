@@ -16,41 +16,32 @@ const { title, description, info } = entry?.data;
       <div class="section row pb-0">
         <div class="col-12 md:col-6 lg:col-7">
           <form class="contact-form" method="POST" action={contact_form_action}>
+            <!-- Redirección a tu página de gracias -->
+            <input type="hidden" name="_next" value="https://diia.com.ar/gracias" />
+            <!-- (opcional) desactivar captcha de FormSubmit -->
+            <input type="hidden" name="_captcha" value="false" />
+            <!-- (opcional) asunto del email que te llega -->
+            <input type="hidden" name="_subject" value="Nuevo mensaje desde diia.com.ar" />
+            <!-- (opcional) honeypot anti-spam -->
+            <input type="text" name="_honey" style="display:none" />
+          
             <div class="mb-3">
-              <input
-                class="form-input w-full rounded"
-                name="name"
-                type="text"
-                placeholder="Nombre"
-                required
-              />
+              <input class="form-input w-full rounded" name="name" type="text" placeholder="Nombre" required />
             </div>
             <div class="mb-3">
-              <input
-                class="form-input w-full rounded"
-                name="email"
-                type="email"
-                placeholder="Email"
-                required
-              />
+              <input class="form-input w-full rounded" name="email" type="email" placeholder="Email" required />
             </div>
             <div class="mb-3">
-              <input
-                class="form-input w-full rounded"
-                name="subject"
-                type="text"
-                placeholder="Asunto"
-                required
-              />
+              <input class="form-input w-full rounded" name="subject" type="text" placeholder="Asunto" required />
             </div>
             <div class="mb-3">
-              <textarea
-                class="form-textarea w-full rounded-md"
-                rows="7"
+              <!-- IMPORTANTE: agregá name para que se envíe el mensaje -->
+              <textarea class="form-textarea w-full rounded-md" name="message" rows="7"
                 placeholder="Contanos qué tipo de productos estás buscando..."></textarea>
             </div>
-            <button type="submit" class="btn btn-primary"> Enviar</button>
-          </form>
+          
+            <button type="submit" class="btn btn-primary">Enviar</button>
+          </form>          
         </div>
         <div class="content col-12 md:col-6 lg:col-5">
           <h4 set:html={markdownify(info?.title)} />
